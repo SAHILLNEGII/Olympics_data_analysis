@@ -1,0 +1,9 @@
+{
+	"name": "olympics-project-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abc42a3e-5886-4d72-b26f-a69a38cc398f",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
